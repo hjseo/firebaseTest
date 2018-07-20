@@ -4,10 +4,25 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>FirebaseAuth.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
 		<key>FirebaseCore.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>1</integer>
+		</dict>
+		<key>GTMOAuth2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>GTMSessionFetcher.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
 		</dict>
 		<key>GoogleToolboxForMac.xcscheme</key>
 		<dict>
@@ -27,7 +42,37 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>0C27CD5EB812C8F8E85BF8134900E998</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>1BC96BED8E82CC4984352C8705A764D8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>42FD17D195FA3B5B05CE79F0B6CF447D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>488CA9079247B8F25888405871FCF2F4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B1C4AAFAF49036C7007633DAA3C806AD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C60D48C24AC5107F932D1778161FE56E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C71013989C387BAAD69BFE01570495EB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
